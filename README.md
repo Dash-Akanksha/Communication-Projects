@@ -1,5 +1,5 @@
 # Communication-Projects
-Portfolia of personal projects in wireless communication and networking
+Portfolio of personal projects in wireless communication and networking
 # 📡 Akanksha Dash – Communication Projects Portfolio
 
 Welcome! I’m a third-year Electronics and Communication Engineering student passionate about wireless systems, 5G, and simulation. This repository showcases my personal projects built using tools like Cisco Packet Tracer, MATLAB, and Python.
